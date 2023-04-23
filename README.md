@@ -11,6 +11,8 @@ Coder, Developer, Programmer<br>Tips & tricks on Coding<br>LinkTree:
 ![](https://github-readme-stats.vercel.app/api?username=amirhh-04&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirhh-04&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhh-04&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
+[![Discord Presence](https://lanyard.cnrad.dev/api/698560253855531068)](https://discord.com/users/698560253855531068)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amirhh-04&limit=5&theme=dark&combine_all_yearly_contributions=true)
