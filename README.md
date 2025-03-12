@@ -32,6 +32,7 @@ Coder, Developer, Programmer<br>Tips & tricks on Coding<br>LinkedIn: <a href='ht
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=amirhh-04&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amirhh-04/count.svg" />
+</p>
